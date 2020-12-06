@@ -42,9 +42,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ap-aryanpandey&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31gzeauuyi4rmq72wxahjxljpdvi)
-
 [twitter]: https://twitter.com/aparyanpandey
 [instagram]: https://www.instagram.com/ap.aryanpandey/
 [linkedin]: https://www.linkedin.com/in/aryan-pandey/
