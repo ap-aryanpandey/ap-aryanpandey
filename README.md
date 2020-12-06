@@ -10,14 +10,40 @@ Here are some ideas to get you started:
 - 💬 Ask me about Cyber Security and Blockchain
 - ⚡ Fun fact: I'm an audiophile.
 
-### 📫 How to reach me?
+### Connect with me:
 
-[<img align="left" alt="Aryanpandey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />][Mail]
-[<img align="left" alt="Aryanpandey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Aryanpandey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aryanpandey | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AryanPandey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />][Mail]
+[<img align="left" alt="AryanPandey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="AryanPandey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AryanPandey | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
+### Language and Tools:
+<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/26/000000/python.png" />
+<img align="left" alt="C++" width="30px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://img.icons8.com/color/452/mongodb.png"/>
+<img align="left" alt="Expressjs" width="30px" src="https://icons-for-free.com/iconfiles/png/512/express+original+wordmark-1324760540505393282.png"/>
+<img align="left" alt="React" width="30px" src="https://icons-for-free.com/iconfiles/png/512/logo+react+react+js+icon-1320184811840217251.png" />
+<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Solidity" width="30px" src="https://docs.soliditylang.org/en/v0.4.20/_images/logo.svg" />
+<img align="left" alt="Tezos" width="30px" src="https://cryptologos.cc/logos/tezos-xtz-logo.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
+
+<br><br>
+![Aryan's GitHub statistic](https://github-readme-stats.vercel.app/api?username=ap-aryanpandey&show_icons=true&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ap-aryanpandey&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31gzeauuyi4rmq72wxahjxljpdvi)
 
 [twitter]: https://twitter.com/aparyanpandey
 [instagram]: https://www.instagram.com/ap.aryanpandey/
