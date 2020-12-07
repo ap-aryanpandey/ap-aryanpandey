@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br><br>
 ![Aryan's GitHub statistic](https://github-readme-stats.vercel.app/api?username=ap-aryanpandey&show_icons=true&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ap-aryanpandey&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ap-aryanpandey&layout=compact&hide_border=true)
 
 [twitter]: https://twitter.com/aparyanpandey
 [instagram]: https://www.instagram.com/ap.aryanpandey/
