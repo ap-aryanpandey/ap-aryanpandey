@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 
 
 **If you like my work maybe buy me a coffee?**
+<br> <br>
 <a href="https://www.buymeacoffee.com/aparyanpandey" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
 
 [twitter]: https://twitter.com/aparyanpandey
