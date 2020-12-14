@@ -1,4 +1,4 @@
-## Hi there, I'm Aryan  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi there<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Aryan  
 
 ### I'm a Undergraduate Student, Blockchain Researcher and a Developer!
 
