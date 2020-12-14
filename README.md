@@ -46,8 +46,11 @@ Here are some ideas to get you started:
 <a href="https://www.buymeacoffee.com/aparyanpandey" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
 
 <br/>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ap-aryanpandey)\
 
+<br/>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=swapnanildhol)\
+
+<br/>
 [twitter]: https://twitter.com/aparyanpandey
 [instagram]: https://www.instagram.com/ap.aryanpandey/
 [linkedin]: https://www.linkedin.com/in/aryan-pandey/
