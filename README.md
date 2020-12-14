@@ -1,4 +1,4 @@
-## Hi there, I'm Aryan  👋
+## Hi there, I'm Aryan  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ### I'm a Undergraduate Student, Blockchain Researcher and a Developer!
 
@@ -37,9 +37,16 @@ Here are some ideas to get you started:
 
 <br />
 
-<br><br>
+<br/>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ap-aryanpandey&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ap-aryanpandey&hide=TeX&layout=compact)
+
+<br/>
+**If you like my work maybe buy me a coffee?**
+<a href="https://www.buymeacoffee.com/aparyanpandey" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
+
+<br/>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ap-aryanpandey)\
 
 [twitter]: https://twitter.com/aparyanpandey
 [instagram]: https://www.instagram.com/ap.aryanpandey/
