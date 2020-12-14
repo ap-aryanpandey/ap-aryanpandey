@@ -35,22 +35,15 @@ Here are some ideas to get you started:
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br />
 
-<br/>
+<br> <br>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ap-aryanpandey&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ap-aryanpandey&hide=TeX&layout=compact)
 
-<br/>
+
 **If you like my work maybe buy me a coffee?**
 <a href="https://www.buymeacoffee.com/aparyanpandey" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
 
-<br/>
-
-<br/>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=swapnanildhol)\
-
-<br/>
 [twitter]: https://twitter.com/aparyanpandey
 [instagram]: https://www.instagram.com/ap.aryanpandey/
 [linkedin]: https://www.linkedin.com/in/aryan-pandey/
