@@ -38,9 +38,8 @@ Here are some ideas to get you started:
 <br />
 
 <br><br>
-![Aryan's GitHub statistic](https://github-readme-stats.vercel.app/api?username=ap-aryanpandey&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ap-aryanpandey&layout=compact&hide_border=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ap-aryanpandey&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ap-aryanpandey&hide=TeX&layout=compact)
 
 [twitter]: https://twitter.com/aparyanpandey
 [instagram]: https://www.instagram.com/ap.aryanpandey/
