@@ -18,31 +18,31 @@ Here are some ideas to get you started:
 [<img align="left" alt="AryanPandey | Instagram" width="22px" src="images/instagram.png" />][instagram]
 <br />
 ### Language and Tools:
-<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/26/000000/python.png" />
-<img align="left" alt="C++" width="30px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://img.icons8.com/color/452/mongodb.png"/>
-<img align="left" alt="React" width="30px" src="https://icons-for-free.com/iconfiles/png/512/logo+react+react+js+icon-1320184811840217251.png" />
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Python" width="30px" src="images/python.png" />
+<img align="left" alt="C++" width="30px" src="images/c++.png" />
+<img align="left" alt="HTML5" width="30px" src="images/html.png" />
+<img align="left" alt="CSS3" width="30px" src="images/css.png" />
+<img align="left" alt="JavaScript" width="30px" src="images/javascript.png" />
+<img align="left" alt="MongoDB" width="30px" src="images/mongodb.png"/>
+<img align="left" alt="React" width="30px" src="images/react.png" />
+<img align="left" alt="Node.js" width="30px" src="images/nodejs.png" />
 <img align="left" alt="MySQL" width="30px" src="images/mysql.png" />
 <img align="left" alt="SQL" width="30px" src="images/sql.png" />
 <img align="left" alt="Solidity" width="30px"  src="images/eth.png" />
-<img align="left" alt="Tezos" width="30px" src="https://cryptologos.cc/logos/tezos-xtz-logo.png" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Tezos" width="30px" src="images/tezos.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="images/vscode.png" />
 <img align="left" alt="Git" width="30px" src="images/git.png" />
 <img align="left" alt="GitHub" width="30px" src="images/github.png"/>
 
 
 <br> <br>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ap-aryanpandey&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ap-aryanpandey&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ap-aryanpandey&hide=TeX&layout=compact&theme=dark&hide_border=true)
 
 
 **If you like my work maybe buy me a coffee?**
 <br> <br>
-<a href="https://www.buymeacoffee.com/aparyanpandey" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
+<a href="https://www.buymeacoffee.com/aparyanpandey" target="_blank"><img src="images/bmc.webp" alt="Buy Me A Coffee"></a>
 
 [twitter]: https://twitter.com/aparyanpandey
 [instagram]: https://www.instagram.com/ap.aryanpandey/
