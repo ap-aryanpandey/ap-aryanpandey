@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 **If you like my work maybe buy me a coffee?**
 <br> <br>
-<a href="https://www.buymeacoffee.com/aparyanpandey" target="_blank"><img src="images/bmc.webp" alt="Buy Me A Coffee"></a>
+<a href="https://www.buymeacoffee.com/aryanpandey" target="_blank"><img src="images/bmc.webp" alt="Buy Me A Coffee"></a>
 
 [twitter]: https://twitter.com/aparyanpandey
 [instagram]: https://www.instagram.com/ap.aryanpandey/
