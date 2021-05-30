@@ -36,9 +36,12 @@ Here are some ideas to get you started:
 
 
 <br> <br>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ap-aryanpandey&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ap-aryanpandey&hide=TeX&layout=compact&theme=dark&hide_border=true)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=ap-aryanpandey&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ap-aryanpandey&hide=TeX&layout=compact&theme=dark&hide_border=true)
+ <!--- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ap-aryanpandey&theme=dark&hide_border=true)](https://git.io/streak-stats)-->
 
+
+  
 
 **If you like my work maybe buy me a coffee?**
 <br> <br>
